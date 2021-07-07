@@ -1,7 +1,8 @@
-[//]: # layout: post
-[//]: # title: Example Entry
-[//]: # tags: example, post
-[//]: # timestamp: 1625649475
+<!-- layout: post -->
+<!-- title: Example Entry -->
+<!-- tags: example, post -->
+<!-- timestamp: 1625649475 -->
+<!-- slug: example-2 -->
 
 This is just an example post.
 
