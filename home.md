@@ -1,4 +1,4 @@
-<!-- layout: page -->
+<!-- layout: home -->
 <!-- menu: Home -->
 <!-- menupos: 0 -->
 <!-- title: Home -->
