@@ -1,9 +1,9 @@
 <!-- layout: post -->
-<!-- title: Example Entry -->
+<!-- title: Example Entry 12 -->
 <!-- tags: example, post -->
-<!-- timestamp: 1625649188 -->
-<!-- slug: example -->
-<!-- lead: my lead goes here. read for more... -->
+<!-- timestamp: 1626267229 -->
+<!-- slug: example-12 -->
+<!-- lead: this is the 12th random lead -->
 
 This is just an example post.
 
